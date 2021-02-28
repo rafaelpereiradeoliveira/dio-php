@@ -8,6 +8,7 @@
     <meta name="viewport" content="width-device-width, initial-scale=1">
 </head>
 <body>
+
     <p>Formulario para inscricao de competidor.</p>
 
     <form action="script.php" method="post">
